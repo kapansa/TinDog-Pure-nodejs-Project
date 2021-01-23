@@ -1,4 +1,5 @@
 # TinDog-Pure-nodejs-Project
+This is a concept project.
 Tindog is the first social app for dog lovers who want to connect with other owners nearby. 
 
 # Installations
